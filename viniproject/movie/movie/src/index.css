@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* styles.css */
+.img {
+    padding: 0.1rem;
+    width: 300px;
+}
